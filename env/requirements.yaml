@@ -7,3 +7,6 @@ dependencies:
   version: 2.3.118
   repository: http://chartmuseum.jenkins-x.io
   alias: cleanup
+- name: rabbitmq
+  repository: https://kubernetes-charts.storage.googleapis.com/
+  version: 5.9.2
