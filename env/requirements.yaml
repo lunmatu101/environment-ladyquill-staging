@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.118
 - name: jenkinx-microservice-nodejs
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.5
+  version: 0.0.6
 - name: rabbitmq
   repository: https://kubernetes-charts.storage.googleapis.com/
   version: 5.9.2
